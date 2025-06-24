@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saqib Aziz</h1>
 <h3 align="center">I'm a Frontend Developer | Learner at SMIT</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isaqibaziz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -67,6 +63,7 @@
 > 💡 “Code every day, not to be perfect — but to be better than yesterday.”
 
 ---
+
 
 
 
