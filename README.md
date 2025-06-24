@@ -7,7 +7,7 @@
 
 - 🧠 Currently learning **JavaScript** at [**SMIT**](https://saylaniwelfare.com/)
 - 💻 Focused on frontend development and UI/UX best practices
-- 🎯 Love to build responsive, real-world web
+- 🎯 Love to build responsive, real-world Web.
 - 🎬 Also a **part-time video editor**
 - 📫 Reach me at **azizsaqib057@gmail.com**
 
@@ -24,10 +24,10 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/saqibaziz09" target="_blank">
+  <a href="https://www.linkedin.com/in/saqiaziz09/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/saqibaziz_" target="_blank">
+  <a href="https://www.instagram.com/saqibaziz_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:azizsaqib057@gmail.com">
