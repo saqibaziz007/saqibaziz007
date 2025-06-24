@@ -7,7 +7,7 @@
 
 - 🧠 Currently learning **JavaScript** at [**SMIT**](https://saylaniwelfare.com/)
 - 💻 Focused on frontend development and UI/UX best practices
-- 🎯 Love to build responsive, real-world web apps
+- 🎯 Love to build responsive, real-world web
 - 🎬 Also a **part-time video editor**
 - 📫 Reach me at **azizsaqib057@gmail.com**
 
