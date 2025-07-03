@@ -13,27 +13,20 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 💻 Tech Stack:
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=plastic&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=meerquais&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=meerquais&theme=dark&hide_border=true)<br/>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" />
 </div>
 
 ---
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/saqiaziz09/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/saqibaziz_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:azizsaqib057@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## 🌐 Socials:
+[![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saqiaziz09/) 
 
 ---
 
