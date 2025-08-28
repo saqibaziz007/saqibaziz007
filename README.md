@@ -31,13 +31,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saqiaziz09/) 
 
 ---
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saqibaziz007&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-
-
 ---
 
 ### 🏆 GitHub Trophies
