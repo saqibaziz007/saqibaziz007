@@ -32,11 +32,11 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saqibaziz007&show_icons=true&theme=react&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibaziz007&layout=compact&theme=react&hide_border=false" width="48%" />
-</div>
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saqibaziz007&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
 
 ---
 
