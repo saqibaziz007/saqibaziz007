@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🧠 Currently learning **JavaScript** at [**SMIT**](https://saylaniwelfare.com/)  
+- 🧠 Currently learning **Supabase** at [**SMIT**](https://saylaniwelfare.com/)  
 - 💻 Focused on frontend development and UI/UX best practices  
 - 🎯 Love building responsive, real-world websites  
 - 🎬 Also a **part-time video editor**  
