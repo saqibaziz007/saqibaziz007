@@ -19,6 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) 
+![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=plastic&logo=git&logoColor=white) 
 ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) 
