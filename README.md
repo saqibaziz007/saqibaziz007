@@ -42,7 +42,7 @@
 ---
 
 ### 📅 Currently Learning
-- JavaScript (ES6+)  
+- TypeScript  
 
 ---
 
