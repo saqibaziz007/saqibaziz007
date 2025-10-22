@@ -28,7 +28,7 @@
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([(https://www.instagram.com/saqibaziz_/)]) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/saqibaziz_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saqiaziz09/) 
 
 ---
@@ -42,7 +42,8 @@
 ---
 
 ### 📅 Currently Learning
-- TypeScript  
+- [![React](https://img.shields.io/badge/React-20232A.svg?logo=React&logoColor=61DAFB)](https://react.dev/)
+
 
 ---
 
